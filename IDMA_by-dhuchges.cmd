@@ -178,6 +178,7 @@ set _col=%_Yellow%
 echo:                                                          
 echo:                                                          
 echo:          ::: IDM Activator v0.7                       
+echo:              - by, DhuchGes                            
 echo:                                                          
 echo:          ---------------------------------------------   
 echo:                                                          
